@@ -3,8 +3,8 @@ package blockstore
 import (
 	"context"
 
+	blocks "github.com/JoaoSilvestre95/go-block-format"
 	lru "github.com/hashicorp/golang-lru"
-	blocks "github.com/ipfs/go-block-format"
 	cid "github.com/ipfs/go-cid"
 	metrics "github.com/ipfs/go-metrics-interface"
 )

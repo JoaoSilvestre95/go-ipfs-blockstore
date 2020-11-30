@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	blk "github.com/ipfs/go-block-format"
+	blk "github.com/JoaoSilvestre95/go-block-format"
 	cid "github.com/ipfs/go-cid"
 	ds "github.com/ipfs/go-datastore"
 	mh "github.com/multiformats/go-multihash"

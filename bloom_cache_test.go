@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	blocks "github.com/ipfs/go-block-format"
+	blocks "github.com/JoaoSilvestre95/go-block-format"
 	ds "github.com/ipfs/go-datastore"
 	dsq "github.com/ipfs/go-datastore/query"
 	syncds "github.com/ipfs/go-datastore/sync"

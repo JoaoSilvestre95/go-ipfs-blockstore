@@ -8,7 +8,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	blocks "github.com/ipfs/go-block-format"
+	blocks "github.com/JoaoSilvestre95/go-block-format"
 	cid "github.com/ipfs/go-cid"
 	ds "github.com/ipfs/go-datastore"
 	dsns "github.com/ipfs/go-datastore/namespace"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	blocks "github.com/ipfs/go-block-format"
+	blocks "github.com/JoaoSilvestre95/go-block-format"
 	cid "github.com/ipfs/go-cid"
 	mh "github.com/multiformats/go-multihash"
 )
